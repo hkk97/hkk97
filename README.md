@@ -1,6 +1,6 @@
 # I'm [Klaus!](https://www.wchklaus.xyz) 👋
 
-<a href="https://twitter.com/klaus97HK">
+<a href="https://twitter.com/hkk97">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chi-hung-wong-b9bb31133/">
@@ -9,10 +9,10 @@
 <a href="https://gitlab.com/wchklaus">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://github.com/wchklaus">
+<a href="https://github.com/hkk97">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/codewithklaus97/">
+<a href="https://www.instagram.com/hkklaus97/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/wch.klaus/">
@@ -25,8 +25,7 @@
 <br/>
 
 3 years of working experience in Flutter and libraries set-up and Backend development/Configuration. 7 years of programming experience in programming eager in system design and architecture design. Capability to handle multi-database environments and create complex mobile applications.
-- 🔭 I’m currently working on [Spotlight-Platform](https://www.spotlight-platform.com) and [Spotlight](https://www.spotlightplatform.co)
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/), System Design and Cloud
+- 🌱 I’m currently learning rust and [Kubernetes](https://kubernetes.io/), System Design and Cloud
 - 💬 Ask me about Flutter and Python or any tech-related stuff.
 - 📫 Contact: wch.klaus@gmail.com
 
@@ -58,4 +57,4 @@
 
 <br/>
 
-![Klaus's github stats](https://github-readme-stats.vercel.app/api?username=wchklaus&show_icons=true&hide_border=true)
+![Klaus's github stats](https://github-readme-stats.vercel.app/api?username=hkk97&show_icons=true&hide_border=true)
