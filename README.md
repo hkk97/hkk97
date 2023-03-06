@@ -25,7 +25,7 @@
 <br/>
 
 Share the things that I did learn. Recording my growth of myself. Humble to learn new tech and keep improving myself.
-3 years of working experience in Flutter and libraries set-up and Backend development/Configuration. 7 years of programming experience in programming eager in system design and architecture design. Capability to handle multi-database environments and create complex mobile applications.
+4 years of working experience in Flutter and libraries set-up and Backend development/Configuration. 8 years of programming experience in programming eager in system design and architecture design. Capability to handle multi-database environments and create complex mobile applications.
 - 🌱 I’m currently learning rust and [Kubernetes](https://kubernetes.io/), System Design and Cloud
 - 💬 Ask me about Flutter and Python or any tech-related stuff.
 - 📫 Contact: wch.klaus@gmail.com
